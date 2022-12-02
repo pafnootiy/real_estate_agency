@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d095846d-f33e-4234-aabb-5d9504bd93c8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/property/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/property/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/property/migrations/0002_auto_20190829_2242.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/property/migrations/0003_flat_new_building.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/property/migrations/0004_auto_20221125_0444.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/property/migrations/0005_complaint.py" beforeDir="false" afterPath="$PROJECT_DIR$/property/migrations/0005_complaint.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/property/migrations/0006_flat_likes.py" beforeDir="false" afterPath="$PROJECT_DIR$/property/migrations/0006_flat_likes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/property/migrations/0007_flat_owner_pure_phone.py" beforeDir="false" afterPath="$PROJECT_DIR$/property/migrations/0007_flat_owner_pure_phone.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/property/migrations/0008_auto_20221125_0459.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/property/migrations/0009_owner.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/property/migrations/0010_auto_20221125_0506.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/property/migrations/0011_auto_20221125_0517.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/property/migrations/0012_auto_20221125_0605.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/property/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/property/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/property/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/property/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/migrations/0010_auto_20221202_1705.py" beforeDir="false" afterPath="$PROJECT_DIR$/property/migrations/0010_auto_20221202_1705.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
